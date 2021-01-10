@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**mirmousaviii/mirmousaviii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [Risklick](https://www.risklick.ch/)
+- 🌱 I’m currently learning [Node.js](https://nodejs.org/en/)
+- 👯 I’m looking to collaborate on open source and international [projects](https://github.com/mirmousaviii)
+- 📫 How to reach me: [mo.js.org](https://mo.js.org)
 
-Here are some ideas to get you started:
+**Languages and Tools:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+
+*NOTE: Top languages do not indicate my skill level or something like that; it's a GitHub metric of which languages I have the most code on GitHub*
+
+<a href="https://github.com/mirmousaviii">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirmousaviii&layout=compact&theme=onedark&langs_count=6" />
+</a>
+<a href="https://github.com/mirmousaviii">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mirmousaviii&theme=onedark&hide=contribs&show_icons=true&count_private=true" />
+</a>
