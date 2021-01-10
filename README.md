@@ -16,8 +16,8 @@
 *NOTE: Top languages do not indicate my skill level or something like that; it's a GitHub metric of which languages I have the most code on GitHub*
 
 <a href="https://github.com/mirmousaviii">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirmousaviii&layout=compact&theme=onedark&langs_count=6" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mirmousaviii&theme=onedark&hide=contribs&show_icons=true&count_private=true" />
 </a>
 <a href="https://github.com/mirmousaviii">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mirmousaviii&theme=onedark&hide=contribs&show_icons=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirmousaviii&layout=compact&theme=onedark&langs_count=6" />
 </a>
