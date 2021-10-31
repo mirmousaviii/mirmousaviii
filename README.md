@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Risklick](https://www.risklick.ch/)
-- 🌱 I’m currently learning [Node.js](https://nodejs.org/en/)
+- 🔭 I’m currently working on [Frequenz](https://frequenz.com/)
+- 🌱 I’m currently learning [IoT](https://en.wikipedia.org/wiki/Internet_of_things) & [Electricity](https://en.wikipedia.org/wiki/Electricity) 
 - 👯 I’m looking to collaborate on open source and international [projects](https://github.com/mirmousaviii)
 - 📫 How to reach me: [mo.js.org](https://mo.js.org)
 
