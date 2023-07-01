@@ -1,10 +1,3 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on [Frequenz](https://frequenz.com/)
-- 🌱 I’m currently learning [IoT](https://en.wikipedia.org/wiki/Internet_of_things) & [Electricity](https://en.wikipedia.org/wiki/Electricity) 
-- 👯 I’m looking to collaborate on open source and international [projects](https://github.com/mirmousaviii)
-- 📫 How to reach me: [mo.js.org](https://mo.js.org)
-
 **Languages and Tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
