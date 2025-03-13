@@ -1,6 +1,6 @@
-💬 Since I'm a generalist, feel free to ask me about anything, but be careful, I'm also a critical thinker, so I'll ask a lot of questions 😉
+💬 Since I'm a generalist, ask me about anything, but be careful, I'm also a critical thinker, so I'll ask a lot of questions too 😉
 
-👨‍💻 My current projects are available at [mirmousavi.com/categories/project/](https://mirmousavi.com/categories/project/)
+👨‍💻 My current projects are available at [mirmousavi.com/categories/project](https://mirmousavi.com/categories/project/)
 
 📝 I write my activity on [mirmousavi.com](https://mirmousavi.com/)
 
